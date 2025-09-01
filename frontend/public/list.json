@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Adventure",
+        "title": "A thrilling journey through unknown lands filled with mystery and wonder.",
+        "price": 0,
+        "category": "free",
+        "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 2,
+        "name": "Music Theory Basics",
+        "title": "Learn the fundamentals of music theory with practical examples.",
+        "price": 0,
+        "category": "music",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 3,
+        "name": "Fantasy Realms",
+        "title": "Enter magical worlds where dragons soar and heroes are born.",
+        "price": 0,
+        "category": "fantasy",
+        "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 4,
+        "name": "Mystery of the Lost City",
+        "title": "Uncover ancient secrets in this captivating archaeological thriller.",
+        "price": 15,
+        "category": "mystery",
+        "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 5,
+        "name": "Culinary Masterclass",
+        "title": "Master the art of cooking with professional techniques and recipes.",
+        "price": 25,
+        "category": "cooking",
+        "image": "https://images.unsplash.com/photo-1589998059171-988d887df646?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 6,
+        "name": "Science Fiction Chronicles",
+        "title": "Explore the future with mind-bending sci-fi adventures.",
+        "price": 0,
+        "category": "free",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 7,
+        "name": "Comedy Gold Collection",
+        "title": "Laugh out loud with the best comedy stories and jokes.",
+        "price": 20,
+        "category": "comedy",
+        "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 8,
+        "name": "Sports Psychology",
+        "title": "Unlock peak performance with mental training techniques.",
+        "price": 30,
+        "category": "sports",
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 9,
+        "name": "Romance Under Stars",
+        "title": "A heartwarming love story that transcends time and space.",
+        "price": 18,
+        "category": "romance",
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 10,
+        "name": "Historical Chronicles",
+        "title": "Dive deep into fascinating historical events and figures.",
+        "price": 22,
+        "category": "history",
+        "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop"
+    },
+    {
+        "id": 11,
+        "name": "Self-Help Mastery",
+        "title": "Transform your life with proven strategies for success.",
+        "price": 0,
+        "category": "free",
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=400&fit=crop"
+    }
+]
